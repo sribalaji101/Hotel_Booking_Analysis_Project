@@ -24,7 +24,7 @@ This project involves analyzing hotel booking data to uncover key insights into 
   - Analyzed market segments, finding that 46% of bookings were made via online travel agencies, while direct bookings accounted for only 4%.  
 
 - **Geographic Trends:**  
-  - Found that the highest number of cancellations came from customers in Portugal (country code `PRT`).  
+  - Analyzed the highest number of cancellations came from Country.  
 
 ### 3. Visualization  
 - Used Matplotlib and Seaborn to create detailed visualizations, including:  
