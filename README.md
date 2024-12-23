@@ -47,14 +47,22 @@ This project involves analyzing hotel booking data to uncover key insights into 
 
 ## Key Insights  
 - **Cancellation Rates:**  
-  - High cancellation rates directly correlate with higher ADR.  
-  - January has the highest cancellation rates, indicating potential for targeted campaigns.  
+  - High cancellation rates directly correlate with higher ADR.  ![output_48_0](https://github.com/user-attachments/assets/f1931a30-f352-4fc7-8aaf-36b570f84738)
+
+  - January has the highest cancellation rates, indicating potential for targeted campaigns.  ![output_52_0](https://github.com/user-attachments/assets/8f3a76d8-3f00-4a51-ad4c-ebf164115021)
+
 - **Hotel Types:**  
-  - City hotels generally receive more bookings but experience a similar cancellation pattern to resort hotels.  
+  - City hotels generally receive more bookings but experience a similar cancellation pattern to resort hotels.  ![output_29_0](https://github.com/user-attachments/assets/5e528a49-c251-4bf3-8011-68803909e816)
+
 - **Pricing Influence:**  
-  - Higher prices significantly increase cancellation rates, suggesting the need for dynamic pricing strategies.  
+  - Higher prices significantly increase cancellation rates, suggesting the need for dynamic pricing strategies.  ![output_64_1](https://github.com/user-attachments/assets/2d71ca9d-d616-4d27-8e40-f8e5fe8658a0)
+
 - **Customer Sources:**  
-  - Online travel agencies dominate as the primary booking source, offering an area for potential partnership enhancements.  
+  - Online travel agencies dominate as the primary booking source, offering an area for potential partnership enhancements.
+
+- **Geographic Trends:**  
+  - Found that the highest number of cancellations came from customers in Portugal![output_54_0](https://github.com/user-attachments/assets/1ae5b125-c54d-42db-af0f-f71e4bc01543)
+
 
 ---
 
@@ -70,10 +78,3 @@ This project involves analyzing hotel booking data to uncover key insights into 
    - Increase direct bookings through marketing campaigns to reduce reliance on third-party platforms.  
 
 ---
-
-## Visualizations  
-Sample visualizations include:  
-- **Bar Graphs:** Cancellation rates and monthly booking trends.  
-- **Line Graphs:** ADR comparisons between city and resort hotels.  
-- **Market Segmentation:** Booking sources and customer behavior.  
-- **Geographic Insights:** Country-wise cancellation trends.  
